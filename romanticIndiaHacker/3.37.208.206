@@ -1,0 +1,6 @@
+SECRET_KEY='django-insecure-q=1(nx^6c_(s#!k=sjj@z6pq+6kdo@w7$7)lr^j23_gg_xb0e#'
+# DATABASE_NAME= 'dasd'
+# DATABASE_USER='your-database-user'
+# DATABASE_PASSWORD='your-database-password'
+# DATABASE_HOST='your-database-host'
+# DATABASE_PORT='your-database-port'

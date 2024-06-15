@@ -2,7 +2,7 @@ import axios from 'axios';
 
 export async function getServerSideProp() {
     try {
-        const response = await axios.get('http://localhost:8000/api/products/');
+        const response = await axios.get('https://romanticbackpack:8000/api/products/');
         const products = response.data;
         return {
             props: { products }
